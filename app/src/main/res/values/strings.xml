@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiBluetooth</string>
+    <string name="boton_activa_bluetooth">Habilitar Bluetooth</string>
+</resources>
